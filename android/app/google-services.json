@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527057731588",
+    "project_id": "live-5e192",
+    "storage_bucket": "live-5e192.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527057731588:android:d766eb522a22675abc3551",
+        "android_client_info": {
+          "package_name": "com.incodes.shortie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgyyau0nJROLlxYIzXcgAn162TLyfxP5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
